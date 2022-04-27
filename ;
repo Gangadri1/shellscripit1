@@ -1,0 +1,5 @@
+#!/bin/bash
+#get the linux hostname
+sudo hostname
+sudo whoami
+
